@@ -6,3 +6,69 @@
 * to choose technologies
 * to make architecture desicions, to make visualization of their ideas
 * to produce technichal documentation
+
+	person process
+* make the design, planning
+* make the documentation
+* calculate costs
+* choose technologies
+* choose suppliers
+* choose service companies
+* consult with his parents, children, friends, co-workers
+* consult with specialists, designers, architectors
+
+	person situation
+[person] // other persons, to consult and make desicion with
+money
+land
+[equipment]
+[device] // to run the software
+[apps] // third party apps person used to operate
+[ability]
+	[language]
+	[sense]
+
+	software world
+[user-device]
+	[container]
+		[user-app]
+data model
+	user
+	project
+	...
+[service-device]
+	[container]
+		[service-app]
+
+	software process
+* get user input (info)
+* convert info to data
+* send data
+* receive data
+* store data
+* delete data
+* update data
+* send data
+* receive data
+* convert data to info
+* produce output to user
+	* show info
+	* download data, info
+	* print info
+
+	general data model
+* user
+	login name
+* project
+	land area
+	trees, nature environment
+	border (fence, entries, gates)
+	buldings
+	roads, ways
+	places (playground, barbecue...)
+* app
+	layout
+	widget
+		top  // user profile, settings, project picking
+		center  // 3d view
+		left, right  // menus..
